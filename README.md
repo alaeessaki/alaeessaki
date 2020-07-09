@@ -1,14 +1,14 @@
 ### Hello 👋
 
-I'm a full-stack JAVA/Angular web developper and currently working as a consultant at Pragmatic/IT6 Consulting.
+I'm a full-stack JAVA/Angular web developper and currently 🔭 working as a consultant at [Pragmatic](http://pragmatic.ma/)/[IT6 Consulting](http://it6.ma/).
 
-I blog from time to time about tutorials and developpement stuff. You can find me on Medium @alaeessaki and Twitter.
+I blog from time to time about tutorials and developpement stuff. You can find me on [Medium](https://medium.com/@alaeessaki) and [Twitter](https://twitter.com/es_alae).
 
-When I am not coding you can find me Reading Manga or translating novels.
+⚡ When I am not coding you can find me Reading Manga or translating novels.
 
-The best way to contact me for a quick question is on my LinkedIn profile.
+The best way to contact me for a quick question is on my [LinkedIn](https://www.linkedin.com/in/alae-essaki-15485016a/) profile.
 
-Feel free to reach out to me for speaking inquiries, or if you have questions or comments feel free to email me at alaeessaki@gmail.com
+Feel free to reach out to me for speaking inquiries, or if you have questions or comments feel free to 📫 email me at [alaeessaki@gmail.com](mailto:alaeessaki@gmail.com)
 
 <!--
 **alaeessaki/alaeessaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
