@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm a full-stack JAVA/Angular web developper and currently 🔭 working as a consultant at [Pragmatic](http://pragmatic.ma/)/[IT6 Consulting](http://it6.ma/).
+I'm a full-stack JAVA/Angular web developper and currently 🔭 working as a consultant at [Pragmatic](http://pragmatic.ma/).
 
 I blog from time to time about tutorials and developpement stuff. You can find me on [Medium](https://medium.com/@alaeessaki) and [Twitter](https://twitter.com/es_alae).
 
